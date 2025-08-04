@@ -13,6 +13,6 @@ public class Demo {
         System.out.println(Demo.j);
         Demo d=new Demo();
         System.out.println(d.k);
-        System.out.println(Demo.j);//eafv
+        System.out.println(Demo.j);
     }
 }
