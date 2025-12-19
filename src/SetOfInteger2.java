@@ -9,7 +9,7 @@ public class SetOfInteger2 {
         System.out.println("Enter the number");
         int n=sc.nextInt();
         int prod=1,rem;
-        for (int i=1;i<=n;i++)
+        while(n>0)
         {
             rem=n%10;
             prod=prod*rem;

@@ -5,9 +5,12 @@
       <module fileurl="file://$PROJECT_DIR$/Api/Api.iml" filepath="$PROJECT_DIR$/Api/Api.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics.iml" filepath="$PROJECT_DIR$/Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterviewPrep/InterviewPrep.iml" filepath="$PROJECT_DIR$/InterviewPrep/InterviewPrep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Map/Map.iml" filepath="$PROJECT_DIR$/Map/Map.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOPS/OOPS.iml" filepath="$PROJECT_DIR$/OOPS/OOPS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Patterns/Patterns.iml" filepath="$PROJECT_DIR$/Patterns/Patterns.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Sorting-Searching/Sorting-Searching.iml" filepath="$PROJECT_DIR$/Sorting-Searching/Sorting-Searching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Searching/Searching.iml" filepath="$PROJECT_DIR$/Searching/Searching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Sorting-Searching.iml" filepath="$PROJECT_DIR$/Sorting/Sorting-Searching.iml" />
       <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
     </modules>
   </component>
